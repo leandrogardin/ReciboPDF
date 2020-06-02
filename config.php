@@ -50,9 +50,9 @@ require_once("checarLogin.php");
                 <div class="container">
                     <div class="row">
                         <div class="col-10">
-                            O sistema de recibo da imobiliaria vila Caiçara funciona da seguinte forma: Um pdf base é usado como fundo assim os campos preenchiveis estarão fixados em um posicionamento X e Y do pdf onde condis com o local apropriado com base no PDF-PADRÃO.
+                            O sistema de recibo da funciona da seguinte forma: Um pdf base é usado como fundo assim os campos preenchiveis estarão fixados em um posicionamento X e Y do pdf onde condis com o local apropriado com base no PDF-PADRÃO.
                             Nessa tela você pode alterar o PDF-PADRÃO porém buscar tentar manter a mesma distancia entre campos preenchiveis. Quais quer erro de posicionamento
-                            na geração do recibo, entre em contato com nosso equipe de desenvolvimento atraves do email: dominussoftwares@gmail.com
+                            na geração do recibo, entre em contato com nosso equipe de desenvolvimento atraves do email: leandro.ivp@hotmail.com
                         </div>
                         <div class="col-2">
                             <img src="img/pdfbase.png" alt="" width="150px">

@@ -1,0 +1,30 @@
+body{
+  height: 100vh;
+  min-height: 500px; 
+  background-size: cover;
+  background-position: center;
+ 
+  background-image: url('../img/background.jpg');
+}
+
+.titulo{
+  background-color: black;
+  height:25px;
+  color:rgb(250, 250, 250); 
+} 
+
+.titulo-inicio{
+  background-color: black;
+  height:170px;
+  color:rgb(250, 250, 250);
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px ;
+}
+.tab-pane.active {
+  animation: slide-left 0.2s ease-out;
+}
+
+@keyframes slide-left{
+  0% { opacity: 0; transform: translateX(100%); }
+  100% { opacity: 1; transform: translateX(0); }
+}

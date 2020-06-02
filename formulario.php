@@ -510,7 +510,7 @@ setlocale(LC_ALL, 'pt_BR', 'pt_BR.utf-8', 'pt_BR.utf-8', 'portuguese');
 
               <div class="input-group mb-3">
                 <div class="input-group-prepend">
-                  <span class="input-group-text" id="basic-addon3"><strong>Cláusula 8ª:</strong> A Imobiliária Vila Caiçara Ltda - ME, faz jus ao recebimento de R$:</span>
+                  <span class="input-group-text" id="basic-addon3"><strong>Cláusula 8ª:</strong> faz jus ao recebimento de R$:</span>
                 </div>
                 <input type="text" class="form-control dinheiro" name="clausula8" id="" aria-describedby="basic-addon3 "value="<?php if (isset($_SESSION['clausula8'])) {
                                                                                                     echo $_SESSION['clausula8'];
