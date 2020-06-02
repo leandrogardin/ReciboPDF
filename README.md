@@ -5,14 +5,14 @@
  Esse projeto consiste em preencher um arquivo PDF já existente que antes eram preenchidos a caneta, e agora temos um sistema web que vai preencher pra gente usando php e formularios html.
  
  Recursos para criar pdf: 
- ° PHP;
- ° Fpdi;
- ° fpdf.
+ PHP;
+ Fpdi;
+ fpdf.
  
  Funções presentes:
- ° Escrever número por extenso automáticamente;
- ° Formularios controlados via javaScript;
- ° opção de compartilhar o recibo via whatsapp.
+  Escrever número por extenso automáticamente;
+ Formularios controlados via javaScript;
+ opção de compartilhar o recibo via whatsapp.
  
  
  O projeto tem o codigo fonte aberto. 
