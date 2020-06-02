@@ -92,6 +92,7 @@ if (move_uploaded_file($_FILES['novopdf']['tmp_name'], "padrao/novo/exemplo.pdf"
 }
 }
     ?>
+
         <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
         <script src="vendor/jquery-3.2.1.min.js"></script>
         <script src="vendor/jquery.mask.min.js"></script>
